@@ -1,5 +1,5 @@
-# 💫 About Me:
-Jeet Dave — Full-Stack Developer & Cloud Enthusiast<br><br>Pre-final year Computer Science Engineering student who enjoys building complete applications and exploring how they can be deployed, scaled, and managed in the cloud.<br><br>💻 I build full-stack applications, develop backend APIs, and work with data-driven solutions.<br>☁️ Currently expanding expertise in AWS, cloud architecture, deployment, and cloud-based applications.<br>🎯 Focusing on combining full-stack development with cloud and emerging AI/ML technologies.<br>📊 With Academics in  Bachelor of Technology in Computer Science & Engineering | Vadodara, India.
+## Jeet Dave — Full-Stack Developer & Cloud Enthusiast
+<br><br>Pre-final year Computer Science Engineering student who enjoys building complete applications and exploring how they can be deployed, scaled, and managed in the cloud.<br><br>💻 I build full-stack applications, develop backend APIs, and work with data-driven solutions.<br>☁️ Currently expanding expertise in AWS, cloud architecture, deployment, and cloud-based applications.<br>🎯 Focusing on combining full-stack development with cloud and emerging AI/ML technologies.<br>📊 With Academics in  Bachelor of Technology in Computer Science & Engineering | Vadodara, India.
 
 
 ## 🌐 Socials:
