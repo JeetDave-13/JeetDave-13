@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jeet Dave 👋</h1>
+<h1 align="center">Hi,👋Jeet Dave here </h1>
 <h3 align="center"> Cloud Engineer | Full-Stack Developer </h3>
 
 <p align="center">
@@ -8,14 +8,11 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Backend+%26+API+Engineer;Learning+AWS+%26+Cloud+Architecture;Exploring+AI%2FML+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=2E9EF7&center=true&vCenter=true&width=540&height=50&lines=Full-Stack+Web+Developer;Backend+%26+Cloud-Native+Explorer;Building+Scalable+AWS+Architectures;Tackling+Reliability+%26+Cloud+Bottlenecks" alt="Typing SVG" />
   </a>
 </p>
 
