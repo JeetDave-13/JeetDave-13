@@ -79,24 +79,14 @@ I'm actively building cloud fundamentals rather than claiming professional cloud
 - Exploring CI/CD fundamentals for automated deployment
 
 ---
+## 📫 Connect With Me
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" alt="streak stats"/>
-</p>
+📧 **Email:** [jeetdave1304@gmail.com](mailto:jeetdave1304@gmail.com)  
+💼 **LinkedIn:** [Jeet Dave](https://www.linkedin.com/in/jeet-dave-362657337/)  
+🐙 **GitHub:** [@JeetDave-13](https://github.com/JeetDave-13)
 
 ---
 
-### 📫 Connect With Me
+### 🚀 "Build. Learn. Improve. Repeat."
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+I'm always open to **learning, collaborating, building impactful projects**, and exploring opportunities in **Full-Stack Development, Cloud Computing, AI, and Backend Engineering.**
