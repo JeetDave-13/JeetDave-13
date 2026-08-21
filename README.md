@@ -1,14 +1,13 @@
-# 🚀 Hi, I'm Jeet Dave
+# Hi, Jeet this side ,
 
-### 💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🤖 AI Explorer
+### 💻 Full-Stack Developer | ☁️ Cloud Enthusiast 
 
-I'm a pre-final year **Computer Science Engineering student** who enjoys turning ideas into scalable, real-world applications — from building the frontend and backend to deploying them in the cloud.
+Pre-final year **Computer Science Engineering student** who enjoys turning ideas into scalable, real-world applications — from building the frontend and backend to deploying them in the cloud.
 
 - 💻 **Full-Stack:** Building responsive web applications and reliable backend APIs.
-- ☁️ **Cloud:** Currently exploring **AWS, cloud architecture, Docker, deployment, and infrastructure**.
-- 🤖 **Exploring:** AI/ML workflows and intelligent applications.
+- ☁️ **Cloud:** Expanding expertise in **AWS, cloud architecture, Docker, deployment, and infrastructure**.
 - 🚀 **Goal:** Build scalable systems by combining full-stack development with cloud technologies.
-- 🎓 **Academics:** B.Tech in CSE | **8.99 CGPA** | Vadodara, India.
+- 🎓 **Academics:** Bachelor of Technology in Computer Science & Engineering 
 
 ---
 
@@ -62,23 +61,17 @@ I'm a pre-final year **Computer Science Engineering student** who enjoys turning
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-blue?style=flat-square)
 
-### 📊 Data & AI
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
 ---
 
-## 🔭 I'm Currently Working On
+## Currently Working On
 
 - ☁️ Cloud-based applications
 - 🐳 Containerizing applications with Docker
 - 🚀 Deploying applications using AWS
 - 🔧 Improving backend development with Python & FastAPI
 
-## 👯 I'm Looking to Collaborate On
+## Looking to Collaborate On
 
 - Full-stack applications
 - Cloud & AWS projects
@@ -86,7 +79,7 @@ I'm a pre-final year **Computer Science Engineering student** who enjoys turning
 - Open-source projects
 - Real-world problem-solving projects
 
-## 🤝 I'm Looking for Help With
+## Looking for Help With
 
 - AWS architecture & best practices
 - Scalable system design
@@ -94,59 +87,10 @@ I'm a pre-final year **Computer Science Engineering student** who enjoys turning
 - Cloud infrastructure
 - Production-ready deployments
 
-## 🌱 I'm Currently Learning
+## ☁️ Currently Exploring Cloud Roles
 
-`AWS` • `Docker` • `Linux` • `Cloud Architecture` • `Networking` • `DevOps` • `System Design`
+• `Full-Stack Developer` • `Cloud Engineering` • `Cloud Development` • `Cloud Architecture` • `DevOps` • `Cloud Security`
 
-## 💬 Ask Me About
-
-`Full-Stack Development` • `Python` • `FastAPI` • `React` • `REST APIs` • `Git/GitHub` • `Docker` • `Cloud`
-
-## ⚡ Fun Fact
-
-I enjoy taking an idea from **"Let's build it" → "It works" → "Let's deploy it!"** 🚀
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Cert-Verify — Intelligent Certificate Authentication System
-
-A certificate verification and fraud-detection system designed to automate academic document validation.
-
-**Tech:** `Python` `FastAPI` `Tesseract OCR` `REST APIs`
-
-- Automated certificate text extraction using OCR.
-- Developed REST APIs for certificate processing and verification.
-- Designed verification logic to reduce manual document-review bottlenecks.
-
----
-
-### 🤖 Swasthik AI — Smart Health Assistant
-
-A multilingual AI-powered healthcare assistant developed as an **SIH 2025 prototype** for rural and semi-urban communities.
-
-**Tech:** `Python` `AI Chatbot` `Web Development` `Government APIs` `Multilingual NLP`
-
-- Built a multilingual healthcare chatbot.
-- Integrated government health APIs for vaccination schedules and disease alerts.
-- Developed calendar and notification features.
-- Focused on improving preventive healthcare awareness.
-
----
-
-### ⚡ India Energy Sector Analysis Dashboard
-
-An interactive dashboard for analyzing India's renewable and conventional energy sectors.
-
-**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Streamlit`
-
-- Analyzed government energy datasets.
-- Performed data cleaning and exploratory data analysis.
-- Created visualizations for state-wise and year-wise energy trends.
-- Explored renewable-energy adoption and regional energy distribution.
-
----
 
 ## 🎓 Education
 
@@ -154,21 +98,12 @@ An interactive dashboard for analyzing India's renewable and conventional energy
 
 **Bachelor of Technology — Computer Science & Engineering**
 
-📊 **CGPA: 8.99**  
 📍 Vadodara, Gujarat, India  
 🎓 Expected Graduation: 2028
 
 ---
 
-## 📜 Certifications
-
-- 🎯 **Prompt Engineering** — Amazon Skill Builder
-- 🐍 **Python for Data Science** — Cisco Networking Academy
-- 🌱 **Green Skills for AI** — Edunet Foundation / Shell Exide
-
----
-
-## 🤝 Activities
+## Activities
 
 ### 🇮🇳 National Service Scheme (NSS)
 
@@ -181,26 +116,6 @@ Participating in community-service initiatives including:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeetDave-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetDave-13&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=JeetDave-13&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📈 Profile Views
 
 <div align="center">
@@ -210,6 +125,17 @@ Participating in community-service initiatives including:
 </div>
 
 ---
+## 📫 Connect With Me
+
+📧 **Email:** [jeetdave1304@gmail.com](mailto:jeetdave1304@gmail.com)  
+💼 **LinkedIn:** [Jeet Dave](https://www.linkedin.com/in/jeet-dave-362657337/)  
+🐙 **GitHub:** [@JeetDave-13](https://github.com/JeetDave-13)
+
+---
+
+### 🚀 "Build. Learn. Improve. Repeat."
+
+Always open to **learning, collaborating, building impactful projects**, and exploring opportunities in **Full-Stack Development, Cloud Computing and Backend Engineering.**
 
 <div align="center">
 
