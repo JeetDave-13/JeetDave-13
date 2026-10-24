@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=2E9EF7&center=true&vCenter=true&width=540&height=50&lines=Full-Stack+Web+Developer;Backend+%26+Cloud-Native+Explorer;Building+Scalable+AWS+Architectures;Tackling+Reliability+%26+Cloud+Bottlenecks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=2E9EF7&center=true&vCenter=true&width=540&height=50&lines=Full-Stack+Developer;Backend+%26+Cloud-Native+Explorer;Building+Scalable+AWS+Architectures;Tackling+Reliability+%26+Cloud+Bottlenecks" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I build full-stack web applications with a strong focus on backend engineering, 
 - 🧩 Focus Areas: Scalability bottlenecks, environment parity, build automation & resource optimization.
 - 🛠️ Tools & Platforms: AWS | Docker | CI/CD Pipelines
 - 🎯 Career direction: Full-Stack → Backend → Cloud Roles
-- 💬 Ask me about: React, Node.js/Express, FastAPI, Docker etc.
+- 💬 Ask me about: React, FastAPI, Docker, Kubernetes etc.
 
 ---
 
